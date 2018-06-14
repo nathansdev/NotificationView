@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotificationView</string>
+    <string name="show_normal">show normal</string>
+    <string name="show_big">show big</string>
+    <string name="show_snooze">show snooze</string>
+    <string name="show_reply">show reply</string>
+    <string name="small_text">This is small text that can be fit into  single line …</string>
+    <string name="big_text">This is really a big text that cannot be fit into one line so showing it
+        in big text lines This is really a big text that cannot be fit into one line so showing it
+        in big text lines This is really a big text that cannot be fit into one line so showing it
+        in big text lines</string>
+</resources>

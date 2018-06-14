@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="snooze">snooze</string>
+    <string name="reply">reply</string>
+</resources>
